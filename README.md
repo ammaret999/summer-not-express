@@ -2,6 +2,10 @@
 
 config Environment variables in lambda
 
+![image](https://github.com/ammaret999/summer-not-express/assets/119582626/e6e1c601-8c2f-4e27-8e9b-509b32485728)
+
+create postgresql database
+
 ![image](https://github.com/ammaret999/summer-not-express/assets/119582626/72efd8e2-81d3-4544-b73d-1a14b7a33ab2)
 ![image](https://github.com/ammaret999/summer-not-express/assets/119582626/1a74d48d-2639-48ae-90fd-c8a29515543c)
 ![image](https://github.com/ammaret999/summer-not-express/assets/119582626/5cd6e362-d65f-4409-bed0-d4ec5cc908be)
